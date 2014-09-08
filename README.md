@@ -2,9 +2,9 @@ Responsive Templates
 ====================
 
 
-Version: 01
+Version: 02
 
-11 Jul 2014
+08 Sept 2014
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -25,6 +25,9 @@ Fonts used include:
 Open Sans (Google)
  + http://www.google.com/fonts/specimen/Open+Sans
  + http://www.google.com/fonts#UsePlace:use/Collection:Open+Sans
+ 
+Roboto (Google) 
+ + http://developer.android.com/design/downloads/index.html
 
 
 
@@ -34,6 +37,12 @@ Change history:
 Version 01: 11 Jul 2014
 Published initial version
 
+
+Version 02: 08 Sept 2014
+Added the following Templates
+
+ - Android tablet 1280 x 800 grid (xhdpi)
+ - Android tablet 800 x 1280 grid (xhdpi)
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
