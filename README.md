@@ -2,9 +2,9 @@ Responsive Templates
 ====================
 
 
-Version: 02
+Version: 03
 
-08 Sept 2014
+10 Jan 2017
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -43,6 +43,13 @@ Added the following Templates
 
  - Android tablet 1280 x 800 grid (xhdpi)
  - Android tablet 800 x 1280 grid (xhdpi)
+ 
+ 
+ Version 02: 10 Jan 2017
+Added the following Templates
+
+ - iPhone 6 750 x 1334 grid
+ 
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
